@@ -1,0 +1,34 @@
+@media (max-width: 992px) {
+	.news-headline-right .news-headline-title{
+		font-size: 14px;
+		font-weight: bold;
+		line-height: 1rem;
+	}
+	.news-headline-right .news-headline-content{
+		font-size: 12px;
+		line-height: 0.8rem;
+	}
+
+	.d-none-pc{
+		display: block
+	}
+
+	.d-none-mobile{
+		display: none;
+	}
+
+	.d-block-mobile{
+		display: block !important;
+	}
+
+	.d-flex-mobile{
+		display: flex !important;
+	}
+
+	.mt-50-mobile{
+		margin-top: 50px;
+	}
+
+
+
+}

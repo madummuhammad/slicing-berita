@@ -1,0 +1,130 @@
+.news-headline-title{
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 1rem;
+	color: black;
+}
+
+.news-headline-title a:hover{
+	color: #244B9C;
+}
+
+.news-headline-content a:hover{
+	color: #244B9C;
+}
+.news-headline-content{
+	font-size: 12px;
+	line-height: 0.8rem;
+	color: grey;
+}
+
+.news-headline-kategori{
+	color: #EF672F;
+}
+
+.news-headline-img{
+	width: 40%;
+}
+/*.news-headline-right .row {
+	border-left: 1px solid grey;
+}*/
+
+.news-headline-right .news-headline-title{
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 1rem;
+}
+.news-headline-right .news-headline-content{
+	font-size: 8px;
+	line-height: 0.8rem;
+}
+
+.news-headline-right .news-headline-img{
+	width: 40%;
+}
+
+.fs-12px{
+	font-size: 12px;
+}
+
+.fs-10px{
+	font-size: 10px !important;
+}
+
+.fs-8px{
+	font-size: 8px !important;
+}
+
+.lh-1px{
+	line-height: 0.1rem;
+}
+
+.lh-08rem{
+	line-height: 0.8rem;
+}
+
+.btn-search{
+	color: #244B9C;
+	border: 1px solid #244B9C;
+}
+
+.d-none-mobile{
+	display: block;
+}
+
+.d-none-pc{
+	display: none;
+}
+
+.theme-main-menu.sticky-menu {
+	box-shadow: 0 13px 35px -12px rgba(35,35,35,0.1);
+	padding-top: 8px; 
+	padding-bottom: 8px;
+}
+
+.bg-grey{
+	background-color: #F1F7FD;
+}
+.content-list .divider{
+	border-bottom: 2px solid #244B9C;
+	margin-bottom: 5px;
+}
+
+.content-list-right .divider{
+	border-bottom: 2px solid #244B9C;
+	margin-bottom: 5px;
+}
+.content-list p{
+	font-weight: bold;
+	margin-bottom: 0;
+	text-align: center;
+	background-color: #244B9C;
+	display: inline-block;
+	padding: 0 10px;
+	color: white;
+}
+
+.content-list-right p{
+	font-weight: bold;
+	margin-bottom: 0;
+	text-align: center;
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.custom-shadow-lg{
+	box-shadow: -7px 7px 38px 0px rgba(0,0,0,0.55);
+	-webkit-box-shadow: -7px 7px 38px 0px rgba(0,0,0,0.55);
+	-moz-box-shadow: -7px 7px 38px 0px rgba(0,0,0,0.55);
+}
+
+.nav-item.active .nav-link{
+	color: #244B9C !important;
+}
+.nav-item .nav-link:hover{
+	color: #244B9C !important;
+}
+
+.scroll-top{
+	background-color: #244B9C !important;
+}
